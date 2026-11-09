@@ -1,0 +1,16 @@
+UMP ONGD — HTML, CSS ET JAVASCRIPT
+
+Design, couleurs, disposition, textes des pages et fichiers visuels repris de la version PHP.
+Ouvrir index.html après extraction pour consulter le site.
+Pour GitHub Pages : mettre les fichiers extraits à la racine du dépôt, puis choisir
+Settings > Pages > Deploy from a branch > main > / (root) > Save.
+Ne pas envoyer seulement le ZIP.
+
+Fonctions disponibles : navigation entre les pages, menu mobile, recherche des pages
+et domaines, filtres, détails des activités, onglets, questions fréquentes et téléchargement PDF.
+
+Cette archive n’inclut aucun serveur ni base de données. Les formulaires ne transmettent
+pas de messages. La connexion, le suivi des demandes, l’export de données et la gestion
+des publications nécessitent la version PHP. Les écrans sont conservés ; une indication
+s’affiche lors de l’utilisation d’une fonction serveur. Aucune connexion fictive n’est ajoutée.
+Aucune donnée de compte ou de visiteur n’est incluse.
